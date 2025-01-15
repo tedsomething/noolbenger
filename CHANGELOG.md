@@ -1,5 +1,11 @@
 # noolbenger
 
+## 1.1.2
+
+### Patch Changes
+
+- 1381476: Update README.md
+
 ## 1.1.1
 
 ### Patch Changes
